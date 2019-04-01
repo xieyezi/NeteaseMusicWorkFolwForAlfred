@@ -16,13 +16,19 @@
 
 ### 功能
 
-关键字|功能
---|:--:|--:
-nm p|播放与暂停|
-nm ne or nm next|下一首|
-nm pr or nm previous|上一首|
-nm lv or nm love |将歌曲添加到"我的喜欢"|
-nm ex or nm exit|退出|
+
+
+| 关键字                | 功能                   |
+| :-------------------- | ---------------------- |
+| nm p                  | 播放与暂停             |
+| nm ne or nm next      | 播放下一首             |
+| nm pr or nm previous  | 播放上一首             |
+| nm lv or nm love      | 将歌曲添加到"我的喜欢" |
+| nm vu or nm volumup   | 调高音量               |
+| nm vd or nm volumdown | 调低音量               |
+| nm ex or nm exit      | 退出                   |
+
+
 
 
 ### 下载
