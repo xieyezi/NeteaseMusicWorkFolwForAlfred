@@ -32,4 +32,4 @@
 
 
 ### 下载
-点击[这里](https://github.com/xieyezi/NeteaseMusicWorkFolwForAlfred/blob/master/NeteaseMusic%20Controller.alfredworkflow?raw=trueg)下载，下载后双击既可自动导入（你需要拥有 Alfred Powerpack，免费版并不支持工作流扩展）。
+点击[这里](https://github.com/xieyezi/NeteaseMusicWorkFolwForAlfred/blob/master/NeteaseMusic%20Controller.alfredworkflow?raw=trueg)下载，下载后双击既可自动导入（你需要拥有 Alfred Powerpack，免费版并不支持工作流扩展）
