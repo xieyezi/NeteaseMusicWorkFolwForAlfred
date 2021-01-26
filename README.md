@@ -26,7 +26,7 @@
 | nm lv or nm love      | 将歌曲添加到"我的喜欢" |
 | nm vu or nm volumup   | 调高音量               |
 | nm vd or nm volumdown | 调低音量               |
-| nm ly or nm lyric     | 显示与隐藏歌词          |
+| nm ly or nm lyric     | 显示与隐藏歌词（状态栏）          |
 | nm ex or nm exit      | 退出                   |
 
 
